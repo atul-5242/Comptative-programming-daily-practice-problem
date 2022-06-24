@@ -1,0 +1,6 @@
+##A suggestion:=============
+Use print or log statements to debug why your hidden test cases are failing.
+    Hidden test cases are used to evaluate if your code can handle different scenarios, 
+    including corner cases.
+    
+==================================================================
